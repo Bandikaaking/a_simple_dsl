@@ -1,4 +1,7 @@
 # A SIMPLE DSL (ASD)
+
+<img src="./Src/images/logo.png" alt="ASD logo">
+
 Ever wanted to just... **make** an *interpreter*, and just __USE__ it? Well, with ASD, you can do that! Install the **asd** command globaly (for ASD v1.2, you can only install it to Linux systems, And on WSL), and Run **.asd** files, from *everywhere* from you device
 
 
