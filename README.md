@@ -13,7 +13,7 @@ Ever wanted to just... **make** an *interpreter*, and just __USE__ it? Well, wit
 ## ASD SYNTAX
 The syntax of ASD looks like, BASIC becuse:
 
-*("basic" hello world)*
+*("tbasic" hello world)*
 ```BASIC
 10 PRINT "Hello, World!"
 ```
